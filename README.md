@@ -1,5 +1,5 @@
 
-<H3>NAME: Mohamed Faial M</H3>
+<H3>NAME: Mohamed Faizal M</H3>
 <H3>REGISTER NO: 212223243002</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:         </H3>
